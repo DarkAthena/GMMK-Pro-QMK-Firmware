@@ -1,4 +1,9 @@
 # GMMK-Pro-QMK-Firmware
+
+The keymap.c is the raw keymap file. You'll need to set up QMK prior to compiling.
+The .bin file is the compiled firmware. Download and Flash. To edit, you'll need to set up QMK and download the keymap.c file.
+
+
 My custom QMK firmware for my GMMK Pro. keymap.c is heavily commented for non-coders.
 
 I'm not a coder. I wish I were a coder, but I'm not. 
